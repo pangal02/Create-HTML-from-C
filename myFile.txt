@@ -1,0 +1,18 @@
+newTitle Galiotos Lazaris
+newHeading 1 PROJECT 2
+newPar PARADEIGMATA
+newLine
+newHeading 2 Paradeigma Pinaka
+newTable 3 2 a,b,c,d,e,f
+newLine
+newHeading 3 Paradeigma Mh Arithimenhs Listas
+newBlist 3 abc,def,ghi
+newLine
+newHeading 4 Paradeigma Arithimenhs Listas
+newNlist 5 progr,ammat,ismos, II
+newLine
+undo
+newPar egine Undoo se "newLine"
+print-l2f 15
+print-f2l 15
+help
